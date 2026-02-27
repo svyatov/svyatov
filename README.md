@@ -1,57 +1,45 @@
 <div align="center">
 
-<a href="https://github.com/svyatov">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full-Stack+Engineer;Open-Source+Maintainer;AI-Augmented+Builder" alt="Typing SVG" />
-</a>
-
----
-
-### Hey, I'm Leonid 👋
-
-**Staff-level engineer who ships end-to-end — from database schema to deploy pipeline.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&height=30&lines=Full-Stack+Engineer;Open-Source+Maintainer;AI-Augmented+Builder" alt="Typing SVG" />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/svyatov.com-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://svyatov.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonid-svyatov)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonid@svyatov.com)
+**Leonid Svyatov**
+
+Staff-level engineer who ships end-to-end — from database schema to deploy pipeline.
 
 </div>
 
 <br/>
 
-## 🛠 Tech Stack
+### Languages & Frameworks
 
-**Languages & Frameworks**
+![Ruby](https://img.shields.io/badge/Ruby-1a1b27?style=flat-square&logo=ruby&logoColor=7aa2f7)
+![Rails](https://img.shields.io/badge/Rails-1a1b27?style=flat-square&logo=rubyonrails&logoColor=7aa2f7)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=7aa2f7)
+![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=7aa2f7)
+![Next.js](https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=7aa2f7)
+![Hotwire](https://img.shields.io/badge/Hotwire-1a1b27?style=flat-square&logo=stimulus&logoColor=7aa2f7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=flat-square&logo=tailwindcss&logoColor=7aa2f7)
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Hotwire](https://img.shields.io/badge/Hotwire-FFE801?style=flat-square&logo=stimulus&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Data & Infrastructure
 
-**Data & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=7aa2f7)
+![Redis](https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=7aa2f7)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=7aa2f7)
+![AWS](https://img.shields.io/badge/AWS-1a1b27?style=flat-square&logo=amazonwebservices&logoColor=7aa2f7)
+![Nginx](https://img.shields.io/badge/Nginx-1a1b27?style=flat-square&logo=nginx&logoColor=7aa2f7)
+![Linux](https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=7aa2f7)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1a1b27?style=flat-square&logo=githubactions&logoColor=7aa2f7)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+### AI & Dev Tools
 
-**AI & Dev Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-1a1b27?style=flat-square&logo=openai&logoColor=7aa2f7)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1b27?style=flat-square&logoColor=7aa2f7)
+![Claude Code](https://img.shields.io/badge/Claude_Code-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
 
 <br/>
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -75,5 +63,9 @@
 <div align="center">
 
 *Building software that works — and making it look easy.*
+
+[![Website](https://img.shields.io/badge/svyatov.com-1a1b27?style=flat-square&logo=safari&logoColor=7aa2f7)](https://svyatov.com)
+[![LinkedIn](https://img.shields.io/badge/leonid--svyatov-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/leonid-svyatov)
+[![Email](https://img.shields.io/badge/leonid@svyatov.com-1a1b27?style=flat-square&logo=gmail&logoColor=7aa2f7)](mailto:leonid@svyatov.com)
 
 </div>
