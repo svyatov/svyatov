@@ -61,8 +61,4 @@ Staff-level engineer who ships end-to-end — from database schema to deploy pip
 
 *Building software that works — and making it look easy.*
 
-[![Website](https://img.shields.io/badge/svyatov.com-1a1b27?style=flat-square)](https://svyatov.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square)](https://linkedin.com/in/leonid-svyatov)
-[![Email](https://img.shields.io/badge/Email-1a1b27?style=flat-square)](mailto:leonid@svyatov.com)
-
 </div>
