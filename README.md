@@ -4,8 +4,6 @@
 
 <br/>
 
-**Leonid Svyatov**
-
 Staff-level engineer who ships end-to-end — from database schema to deploy pipeline.
 
 </div>
@@ -35,9 +33,9 @@ Staff-level engineer who ships end-to-end — from database schema to deploy pip
 
 ### AI & Dev Tools
 
-![OpenAI](https://img.shields.io/badge/OpenAI_API-1a1b27?style=flat-square&logo=openai&logoColor=7aa2f7)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-1a1b27?style=flat-square&logoColor=7aa2f7)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-1a1b27?style=flat-square&logo=openai&logoColor=7aa2f7)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-1a1b27?style=flat-square&logo=googlegemini&logoColor=7aa2f7)
 
 <br/>
 
@@ -65,7 +63,7 @@ Staff-level engineer who ships end-to-end — from database schema to deploy pip
 *Building software that works — and making it look easy.*
 
 [![Website](https://img.shields.io/badge/svyatov.com-1a1b27?style=flat-square&logo=safari&logoColor=7aa2f7)](https://svyatov.com)
-[![LinkedIn](https://img.shields.io/badge/leonid--svyatov-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/leonid-svyatov)
-[![Email](https://img.shields.io/badge/leonid@svyatov.com-1a1b27?style=flat-square&logo=gmail&logoColor=7aa2f7)](mailto:leonid@svyatov.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/leonid-svyatov)
+[![Email](https://img.shields.io/badge/Email-1a1b27?style=flat-square&logo=gmail&logoColor=7aa2f7)](mailto:leonid@svyatov.com)
 
 </div>
