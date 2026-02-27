@@ -56,10 +56,10 @@
 <div align="center">
 
 <a href="https://github.com/svyatov">
-  <img height="180" src="https://raw.githubusercontent.com/svyatov/svyatov/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://raw.githubusercontent.com/svyatov/svyatov/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/svyatov">
-  <img height="180" src="https://raw.githubusercontent.com/svyatov/svyatov/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+  <img height="180" src="https://raw.githubusercontent.com/svyatov/svyatov/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
 </a>
 
 <br/>
