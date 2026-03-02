@@ -56,8 +56,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svyatov&theme=github_dark)
 
   <br/>
-  <br/>
-  <br/>
 
   *Staff-level craft. Startup-level speed. Zero production disasters.*
 
