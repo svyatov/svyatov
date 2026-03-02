@@ -1,9 +1,11 @@
 <div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=30&lines=Full-Stack+Engineer;Open-Source+Maintainer;AI-Augmented+Builder" alt="Typing SVG" />
 
   <br/>
 
   Staff-level engineer who ships end-to-end - from database schema to deploy pipeline.
+
 </div>
 
 <br/>
@@ -50,9 +52,13 @@
 <br/>
 
 <div align="center">
+
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svyatov&theme=github_dark)
+
   <br/>
   <br/>
   <br/>
+
   *Staff-level craft. Startup-level speed. Zero production disasters.*
+
 </div>
