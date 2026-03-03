@@ -2,8 +2,6 @@
 
   ![Full-Stack+Engineer * Open-Source Maintainer * AI-Augmented Builder](title.svg)
 
-  <br/>
-
   Staff-level engineer who ships end-to-end - from database schema to deploy pipeline.
 
 </div>
