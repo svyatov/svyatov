@@ -2,7 +2,7 @@
 
   ![Full-Stack+Engineer * Open-Source Maintainer * AI-Augmented Builder](title.svg)
 
-  Staff-level engineer who ships end-to-end - from database schema to deploy pipeline.
+  10+ years in production. 6 industries. Every layer of the stack.
 
 </div>
 
@@ -19,6 +19,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=58a6ff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=58a6ff)
 
 ### Data & Infrastructure
 
@@ -32,20 +33,22 @@
 
 ### AI & Dev Tools
 
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=58a6ff)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=58a6ff)
 ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=58a6ff)
 
 ### Track Record
 
-- [Show-Score](https://www.show-score.com) - Built Broadway's #1 theater platform from day one. ~50% of the codebase, 2,918 commits. Acquired by TodayTix Group.
-- 6 companies across 4 domains — Financial Services, Entertainment/Ticketing, Healthcare, AI/Academic Research.
-- Zero major production incidents in 10+ years.
-
-### Currently
-
-- Integrating LLMs into production systems
-- Building developer tools and own products
-- Open to staff/lead roles with meaningful product ownership
+- Full product ownership - built and maintained platforms as sole or primary developer for years at a time
+- Built a live trading platform with layered safety systems from scratch in 4 weeks
+- 3 products shipped in 7 months: AI chatbot, LLM document classifier, container infrastructure
+- Production LLM integrations: OpenAI, Groq, Mistral - structured outputs, function calling, OCR pipelines
+- 30+ third-party tools and API integrations across payments, ticketing, messaging, financial data, and LLMs
+- Multi-tenant architectures, subscription billing, real-time dashboards, email systems at scale
+- Rails upgrades across 5 major versions on live production systems
+- 10 open-source projects actively maintained across Ruby, Go, and TypeScript
+- Picked up TypeScript, Python, and Go mid-career - production features shipped in all three
+- TDD is non-negotiable. Every project, every language, every time.
 
 <br/>
 
@@ -55,6 +58,6 @@
 
   <br/>
 
-  *Staff-level craft. Startup-level speed. Zero production disasters.*
+  *Staff-level craft. Startup-level speed.*
 
 </div>
