@@ -1,8 +1,8 @@
 <div align="center">
 
-  ![Full-Stack+Engineer * Open-Source Maintainer * AI-Augmented Builder](title.svg)
+  ![Full-Stack Engineer · Open-Source Maintainer · AI-Augmented Builder](title.svg)
 
-  10+ years in production. 6 industries. Every layer of the stack.
+  Ruby at the core, 15+ years shipping production systems end to end.
 
 </div>
 
@@ -37,27 +37,34 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=58a6ff)
 ![Cursor](https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=58a6ff)
 
-### Track Record
+### Open source I maintain
 
-- Full product ownership - built and maintained platforms as sole or primary developer for years at a time
-- Built a live trading platform with layered safety systems from scratch in 4 weeks
-- 3 products shipped in 7 months: AI chatbot, LLM document classifier, container infrastructure
-- Production LLM integrations: OpenAI, Groq, Mistral - structured outputs, function calling, OCR pipelines
-- 30+ third-party tools and API integrations across payments, ticketing, messaging, financial data, and LLMs
-- Multi-tenant architectures, subscription billing, real-time dashboards, email systems at scale
-- Rails upgrades across 5 major versions on live production systems
-- 10 open-source projects actively maintained across Ruby, Go, and TypeScript
-- Picked up TypeScript, Python, and Go mid-career - production features shipped in all three
-- TDD is non-negotiable. Every project, every language, every time.
+The work below is mostly closed-source, so here's the stuff you can actually click into:
+
+- **[sec_id](https://github.com/svyatov/sec_id)** - validate, parse, normalize and convert securities identifiers (ISIN, CUSIP, SEDOL, FIGI, LEI, IBAN, and more), check-digit math included. My oldest gem.
+- **[clsx-rails](https://github.com/svyatov/clsx-rails)** - `clsx`/`cn` view helpers for Rails; a drop-in `class_names` replacement that benchmarks 2–4× faster.
+- **[clsx-ruby](https://github.com/svyatov/clsx-ruby)** - the framework-agnostic core: conditional CSS class strings for ViewComponent, Phlex, or plain templates.
+- **[hacker_news_sorted](https://github.com/svyatov/hacker_news_sorted)** - Chrome extension to re-sort the HN front page by points/time/comments. TypeScript, Manifest V3, zero data collection.
+- **[oz](https://github.com/svyatov/oz)** - config-driven CLI wizard framework in Go: define prompts in YAML, wrap any tool in a discoverable TUI.
+- **[create-rails-app](https://github.com/svyatov/create-rails-app)** · **[create-gem](https://github.com/svyatov/create-gem)** - interactive wizards for `rails new` and `bundle gem`, so you stop looking up flags.
+- **[http_wrapper](https://github.com/svyatov/http_wrapper)** - a small, ergonomic skin over stdlib `Net::HTTP`.
+- **[smsru_ruby](https://github.com/svyatov/smsru_ruby)** - dependency-free client for the SMS.ru API: send SMS, phone-call verification, delivery status. Fully RBS-typed, with constant-time webhook signature verification.
+
+→ [a few more on the repos tab](https://github.com/svyatov?tab=repositories)
+
+### What I like working on
+
+- **A blank repo and broad ownership** - schema, infra, deploy pipeline, the lot. Building something from zero is the part that actually energizes me.
+- **Small teams with a short chain of command.** Move fast, but with quality; no long approval chains.
+- **Designing good interfaces** - clean APIs for the people who call them, sharp CLIs and libs for the people who build with them.
+- **Untangling messy code** into something you can reason about. Decomposition is the fun part, not the chore.
+- **Making slow things fast** - finding the real bottleneck and killing it: N+1 queries, missing indexes, counter caches, hot-path denormalization. Measured wins, not guesses.
+- **Ruby/Rails** by default, **Go** for CLIs and small services, **TypeScript** on the front end - increasingly AI-augmented across all of it.
 
 <br/>
 
 <div align="center">
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svyatov&theme=github_dark)
-
-  <br/>
-
-  *Staff-level craft. Startup-level speed.*
 
 </div>
