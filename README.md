@@ -59,6 +59,9 @@ The work below is mostly closed-source, so here's the stuff you can actually cli
 - **[clsx-rails](https://github.com/svyatov/clsx-rails)** - `clsx`/`cn` view helpers for Rails; a drop-in `class_names` replacement that benchmarks 2–4× faster.
 - **[clsx-ruby](https://github.com/svyatov/clsx-ruby)** - the framework-agnostic core: conditional CSS class strings for ViewComponent, Phlex, or plain templates.
 - **[tailwind-merge-typography](https://github.com/svyatov/tailwind-merge-typography)** - a tailwind-merge plugin that resolves `@tailwindcss/typography` `prose-*` conflicts correctly.
+
+**Browser extensions**
+
 - **[hacker_news_sorted](https://github.com/svyatov/hacker_news_sorted)** - Chrome extension to re-sort the HN front page by points/time/comments. TypeScript, Manifest V3, zero data collection.
 
 **CLI tools & wizards**
