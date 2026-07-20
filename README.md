@@ -2,7 +2,7 @@
 
   ![Full-Stack Engineer · Open-Source Maintainer · AI-Augmented Builder](title.svg)
 
-  Ruby at the core, 15+ years shipping production systems end to end.
+  Shipping end to end - backend, frontend, infra - with agentic AI in the loop. Ruby at the core, 15+ years in production.
 
 </div>
 
@@ -41,14 +41,35 @@
 
 The work below is mostly closed-source, so here's the stuff you can actually click into:
 
+**AI & agent tooling**
+
+- **[agent-toolkit](https://github.com/svyatov/agent-toolkit)** - reusable skills and plugins for Claude Code, Cursor, Codex, and Gemini CLI; the agent setup I actually work with day to day.
+
+**Ruby gems**
+
 - **[sec_id](https://github.com/svyatov/sec_id)** - validate, parse, normalize and convert securities identifiers (ISIN, CUSIP, SEDOL, FIGI, LEI, IBAN, and more), check-digit math included. My oldest gem.
+- **[candor](https://github.com/svyatov/candor)** - turn a block or callable into a real method with an honest signature.
+- **[briefly](https://github.com/svyatov/briefly)** - a terse, curated facade over your application's most reached-for objects.
+- **[card_dealer](https://github.com/svyatov/card_dealer)** - a delightful card-dealing companion for your digital table.
+- **[http_wrapper](https://github.com/svyatov/http_wrapper)** - a small, ergonomic skin over stdlib `Net::HTTP`.
+- **[smsru-ruby](https://github.com/svyatov/smsru-ruby)** - dependency-free client for the SMS.ru API: send SMS, phone-call verification, delivery status. Fully RBS-typed, with constant-time webhook signature verification.
+
+**Frontend for Rails / Tailwind**
+
 - **[clsx-rails](https://github.com/svyatov/clsx-rails)** - `clsx`/`cn` view helpers for Rails; a drop-in `class_names` replacement that benchmarks 2–4× faster.
 - **[clsx-ruby](https://github.com/svyatov/clsx-ruby)** - the framework-agnostic core: conditional CSS class strings for ViewComponent, Phlex, or plain templates.
+- **[tailwind-merge-typography](https://github.com/svyatov/tailwind-merge-typography)** - a tailwind-merge plugin that resolves `@tailwindcss/typography` `prose-*` conflicts correctly.
 - **[hacker_news_sorted](https://github.com/svyatov/hacker_news_sorted)** - Chrome extension to re-sort the HN front page by points/time/comments. TypeScript, Manifest V3, zero data collection.
+
+**CLI tools & wizards**
+
 - **[oz](https://github.com/svyatov/oz)** - config-driven CLI wizard framework in Go: define prompts in YAML, wrap any tool in a discoverable TUI.
-- **[create-rails-app](https://github.com/svyatov/create-rails-app)** · **[create-gem](https://github.com/svyatov/create-gem)** - interactive wizards for `rails new` and `bundle gem`, so you stop looking up flags.
-- **[http_wrapper](https://github.com/svyatov/http_wrapper)** - a small, ergonomic skin over stdlib `Net::HTTP`.
-- **[smsru_ruby](https://github.com/svyatov/smsru_ruby)** - dependency-free client for the SMS.ru API: send SMS, phone-call verification, delivery status. Fully RBS-typed, with constant-time webhook signature verification.
+- **[create-rails-app](https://github.com/svyatov/create-rails-app)** · **[create-ruby-gem](https://github.com/svyatov/create-ruby-gem)** - interactive wizards for `rails new` and `bundle gem`, so you stop looking up flags.
+
+**Learning by building**
+
+- **[database-transactions](https://github.com/svyatov/database-transactions)** - learn database transactions from verified, runnable examples.
+- **[deck](https://github.com/svyatov/deck)** - basic operations on a deck of playing cards, in Elixir.
 
 → [a few more on the repos tab](https://github.com/svyatov?tab=repositories)
 
