@@ -10,7 +10,7 @@ The work below is mostly closed-source, so here's the stuff you can actually cli
 
 **[clsx-rails](https://github.com/svyatov/clsx-rails)** - `clsx`/`cn` view helpers for Rails, a drop-in replacement for `class_names` that benchmarks 2-4x faster and never slower on realistic markup. The framework-agnostic core ships separately as [clsx-ruby](https://github.com/svyatov/clsx-ruby) for ViewComponent, Phlex, or plain templates.
 
-**[oss-kit](https://github.com/svyatov/oss-kit)** - curated agent skills for open-source maintainers. Audit a repo's health and get back only the gaps, each routed to the skill that fixes it: improve the README, bring the project in line with community guidelines and best practices, and publish releases to npm, RubyGems, PyPI and crates.io. Scores both GitHub and GitLab, and holds itself to its own standard. [Docs](https://oss-kit.svyatov.com/).
+**[oss-kit](https://github.com/svyatov/oss-kit)** - curated agent skills for open-source maintainers. Audit a repo's health and get back only the gaps, each routed to the skill that fixes it: improve the README, bring the project in line with community guidelines and best practices, and publish releases to npm, RubyGems, PyPI and crates.io. Works on repos hosted on GitHub or GitLab, and holds itself to its own standard. [Docs](https://oss-kit.svyatov.com/).
 
 **[hacker_news_sorted](https://github.com/svyatov/hacker_news_sorted)** - Chrome extension that re-sorts the HN front page by points, time, comments, velocity or heat, marks posts you haven't seen, and highlights repeat comment authors. TypeScript, Manifest V3, zero data collection.
 
