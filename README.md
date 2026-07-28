@@ -43,26 +43,32 @@ The work below is mostly closed-source, so here's the stuff you can actually cli
 
 **AI & agent tooling**
 
+- **[oss-kit](https://github.com/svyatov/oss-kit)** - a 46-rule open-source standard shipped as agent skills: audit a repo, get back only the gaps, each routed to the skill that fixes it. Scores GitHub and GitLab, covers release publishing for npm, RubyGems, PyPI and crates.io. [Docs](https://oss-kit.svyatov.com/).
+- **[agentskills-lint](https://github.com/svyatov/agentskills-lint)** - zero-config `npx` linter for the [Agent Skills spec](https://agentskills.io/specification): errors for spec violations, warnings for weak authoring.
 - **[agent-toolkit](https://github.com/svyatov/agent-toolkit)** - reusable skills and plugins for Claude Code, Cursor, Codex, and Gemini CLI; the agent setup I actually work with day to day.
 
 **Ruby gems**
 
-- **[sec_id](https://github.com/svyatov/sec_id)** - validate, parse, normalize and convert securities identifiers (ISIN, CUSIP, SEDOL, FIGI, LEI, IBAN, and more), check-digit math included. My oldest gem.
+- **[sec_id](https://github.com/svyatov/sec_id)** - a securities-identifier toolkit: validate, parse, normalize, detect, convert, generate, classify and repair 16 schemes (ISIN, CUSIP, CEI, SEDOL, FIGI, LEI, IBAN, CIK, OCC, WKN, Valoren, CFI, FISN, BIC, DTI, UPI), check-digit math included. My oldest gem.
 - **[candor](https://github.com/svyatov/candor)** - turn a block or callable into a real method with an honest signature.
 - **[briefly](https://github.com/svyatov/briefly)** - a terse, curated facade over your application's most reached-for objects.
 - **[card_dealer](https://github.com/svyatov/card_dealer)** - a delightful card-dealing companion for your digital table.
 - **[http_wrapper](https://github.com/svyatov/http_wrapper)** - a small, ergonomic skin over stdlib `Net::HTTP`.
 - **[smsru-ruby](https://github.com/svyatov/smsru-ruby)** - dependency-free client for the SMS.ru API: send SMS, phone-call verification, delivery status. Fully RBS-typed, with constant-time webhook signature verification.
 
+**TypeScript libraries**
+
+- **[devto-client](https://github.com/svyatov/devto-client)** - typed, zero-dependency client for the dev.to (Forem) v1 API. Response types come from Forem's own OpenAPI spec; the versioned Accept header and the undocumented rate limits are handled for you, so requests can't silently downgrade to the deprecated v0 API.
+
 **Frontend for Rails / Tailwind**
 
-- **[clsx-rails](https://github.com/svyatov/clsx-rails)** - `clsx`/`cn` view helpers for Rails; a drop-in `class_names` replacement that benchmarks 2–4× faster.
+- **[clsx-rails](https://github.com/svyatov/clsx-rails)** - `clsx`/`cn` view helpers for Rails; a drop-in `class_names` replacement that benchmarks 2-4x faster.
 - **[clsx-ruby](https://github.com/svyatov/clsx-ruby)** - the framework-agnostic core: conditional CSS class strings for ViewComponent, Phlex, or plain templates.
 - **[tailwind-merge-typography](https://github.com/svyatov/tailwind-merge-typography)** - a tailwind-merge plugin that resolves `@tailwindcss/typography` `prose-*` conflicts correctly.
 
 **Browser extensions**
 
-- **[hacker_news_sorted](https://github.com/svyatov/hacker_news_sorted)** - Chrome extension to re-sort the HN front page by points/time/comments. TypeScript, Manifest V3, zero data collection.
+- **[hacker_news_sorted](https://github.com/svyatov/hacker_news_sorted)** - Chrome extension that re-sorts the HN front page by points, time, comments, velocity or heat, marks posts you haven't seen, and highlights repeat comment authors. TypeScript, Manifest V3, zero data collection.
 
 **CLI tools & wizards**
 
